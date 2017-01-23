@@ -39,4 +39,5 @@ Yes, but not more than the name.
 
 
 11)  Who else is in your group?  Only use github names and link to their page like this:  [MadStats](https://github.com/MadStats) and [karlrohe](https://github.com/karlrohe).
-
+rqz233(https://github.com/rqz233)
+Sommerzzz(https://github.com/Sommerzzz)
